@@ -14,6 +14,6 @@ description: "Building an algorithm library website for professionals and studen
 - `Netlify`
 
 
-`I am currently writing the blog post, I will publish it very soon, including a link to the library website.`
+`I am currently updating the blog post, it will be published very soon, including the link to the library website.`
 
 

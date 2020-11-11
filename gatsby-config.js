@@ -3,7 +3,7 @@ module.exports = {
     title: `Klajd's Code Blog`,
     author: {
       name: `Klajd`,
-      summary: `- Software Engineer @ Goldman Sachs, previously @ IBM and Deutsche Bank.`,
+      summary: `- SWE @ Goldman Sachs, previously @ IBM and Deutsche Bank.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,

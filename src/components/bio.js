@@ -56,9 +56,18 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://www.linkedin.com/in/klajdkaraj`}>
-            LinkedIn profile
+          <b>
+          <p></p>
+          <a href={`https://klakaraj.com/` } style={{"text-decoration": "none"}} >
+            Resume &nbsp;
+          </a> 
+          <a href={`https://www.linkedin.com/in/klajdkaraj`} style={{"text-decoration": "none"}}>
+            LinkedIn &nbsp;
           </a>
+          <a href={`https://github.com/klajddd`} style={{"text-decoration": "none"}}>
+          Github
+          </a>
+          </b>
         </p>
       )}
     </div>
