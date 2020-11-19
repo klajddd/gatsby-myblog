@@ -8,7 +8,7 @@ description: "Using Python to optimize portfolio trading methodologies."
 - `Python`
 - `Pandas`
 - `Numpy`
-- `EfficientFrontier`
+- `EfficientFrontier` 
 - `DiscreteAllocation`
 
 `I am currently updating the blog post, it will be published very soon.`
