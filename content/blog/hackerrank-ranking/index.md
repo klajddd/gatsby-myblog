@@ -10,7 +10,7 @@ description: "This article is an overview of how to prepare to get ranked among 
 - `VS Code`
 - `IntelliJ`
 
-This article is an overview of how to prepare to get ranked among top HackerRank coders. 
+This article is an overview of how to prepare for programming challenges and exercises on competitive programming sites like HackerRank. 
 
 You will need to have a basic understanding of the Big O notation used to measure a programs efficiency, and data structure and algorithm concepts such as:
 
