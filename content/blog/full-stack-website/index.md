@@ -8,6 +8,7 @@ description: "Building an algorithm library website for professionals and studen
 - `Python`
 - `Flask framework`
 - `JavaScript`
+- `Jinja` - a templating language for Python that helps with dynamically generating html files by incorporating variable values passed in to the template.
 - `React framework`
 - `PostgreSQL`
 - `Heroku`
